@@ -57,22 +57,29 @@ Ini adalah proyek website pribadi yang dibangun menggunakan **PHP**, **MySQL**, 
 
 #### 🏠 Halaman Home (Typewriter Effect)
 
-![Home page](screenshots/home-page.png)
+![Home page](tampilan/home-light.png)
+![Home page](tampilan/home-dark.png)
 
 #### 🙋‍♂️ About Section
 
-![About page](screenshots/about-page.png)
+![About page](tampilan/about-light.png)
+![About page](tampilan/about-dark.png)
 
 #### 🖼️ Gallery Page
 
-![Gallery page](screenshots/gallery-page.png)
+![Gallery page](tampilan/gallery-light.png)
+![Gallery page](tampilan/gallery-dark.png)
 
 #### 📚 Artikel Page (dengan Pencarian & Filter)
 
-![Artikel page](screenshots/artikel-page.png)
+![Artikel page](tampilan/artikel-light.png)
+![Artikel page](tampilan/artikel-dark.png)
 
 #### 🔐 Admin Panel (Login & Manajemen Artikel)
 
+![Admin dashboard](tampilan/login-light.png)
+![Admin dashboard](tampilan/login-dark.png)
+![Admin dashboard](tampilan/admin-light.png)
 ![Admin dashboard](tampilan/admin-dark.png)
 
 ---
@@ -122,8 +129,3 @@ Ini adalah proyek website pribadi yang dibangun menggunakan **PHP**, **MySQL**, 
 
 **Ramdan Prayitno**
 💼 UI/UX Enthusiast
-🌐 [www.ramdan.com](https://www.ramdan.com)
-📧 [cv@ramdan.com](mailto:cv@ramdan.com)
-🔗 [LinkedIn](https://linkedin.com/in/ramdan) | [GitHub](https://github.com/ramdan) | [Instagram](https://instagram.com/ramdan)
-
----
